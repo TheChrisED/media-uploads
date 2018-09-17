@@ -1,0 +1,1 @@
+This repo contains media files that should be served with CORS headers.
